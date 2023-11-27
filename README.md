@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Seth Ndagijimana</h1>
 <h3 align="center">Software developer</h3>
-<p> I'm Seth Ndagijimana, a passionate and experienced software developer. With a strong foundation in programming and a knack for problem-solving, I thrive in creating innovative solutions and crafting efficient code. My journey in software development began in 2018, and since then, I have continually honed my skills to stay at the forefront of the ever-evolving tech industry.</p>
+<p> I'm Seth Ndagijimana, a passionate software developer. With a strong foundation in programming and a knack for problem-solving, I thrive in creating innovative solutions and crafting efficient code. My journey in software development began in 2019, and since then, I have continually honed my skills to stay at the forefront of the ever-evolving tech industry.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethndagijimana&label=Profile%20views&color=0e75b6&style=flat" alt="sethndagijimana" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 
 
-- 🌱 I’m currently learning **SpringBoot, Redux and AEM**
+- 🌱 I’m currently learning **SpringBoot
 - Skills:  **REACT/ JS/ HTML/ CSS/java/**
 
 - 💬 Ask me about **web development**
