@@ -5,10 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethndagijimana&label=Profile%20views&color=0e75b6&style=flat" alt="sethndagijimana" /> </p>
 
-- 
 
-- 🌱 I’m currently learning **SpringBoot
-- Skills:  **REACT/ JS/ HTML/ CSS/java/**
+- Skills:  **REACT/ JS/ HTML/ CSS/Nextjs/**
 
 - 💬 Ask me about **web development**
 
