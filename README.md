@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Seth Ndagijimana</h1>
 <h3 align="center">Software developer</h3>
-<p> I'm Seth Ndagijimana, a passionate software developer. With a strong foundation in programming and a knack for problem-solving, I thrive in creating innovative solutions and crafting efficient code. My journey in software development began in 2019, and since then, I have continually honed my skills to stay at the forefront of the ever-evolving tech industry.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethndagijimana&label=Profile%20views&color=0e75b6&style=flat" alt="sethndagijimana" /> </p>
 
@@ -15,7 +14,7 @@
 - ⚡ Fun fact **I like gaming**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:❤</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ndagijimana-seth-109306211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndagijimana-seth-109306211" height="30" width="40" /></a>
 </p>
